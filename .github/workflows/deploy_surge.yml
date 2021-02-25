@@ -30,4 +30,4 @@ jobs:
       - name: Installing surge
         run: npm install --global surge
       - name: Run Surge
-        run: surge ./ tangy-rice.surge.sh --token $ {{ secrets.SURGE_TOKEN1 }}
+        run: surge ./ tangy-rice.surge.sh --token $ {{ secrets.SURGE_TOKEN }}
