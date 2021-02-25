@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name:Deploy With Se
+name:Deploy Website
 
 # Controls when the action will run. 
 on:
